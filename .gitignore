@@ -1,0 +1,7 @@
+# Folders to ignore
+report/
+report
+
+# Files to ignore
+*.tex
+*.asv

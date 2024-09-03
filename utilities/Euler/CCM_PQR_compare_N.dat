@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+#SBATCH --ntasks=10
+#SBATCH --job-name="CCM N"
+#SBATCH --time=10:00:00
+#SBATCH --mem-per-cpu=3g
+#SBATCH --mail-type=END
+#SBATCH --output="data/CCM_PQR_compare_N.out"
+module load matlab/R2023b
+matlab -nodisplay -singleCompThread -r CCM_PQR_compare_N
