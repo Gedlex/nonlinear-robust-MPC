@@ -3,7 +3,7 @@
 ## Description
 
 This repository contains the the MATLAB code that accompanies the semester project:
-> Erdin Alexander “A Comparison on Robust MPC Methods for Nonlinear Systems”
+> Erdin, Alexander “A Comparison on Robust MPC Methods for Nonlinear Systems”
 > 2024.
 
 ![Project Image](figs/PQR_N_tightening.svg)
