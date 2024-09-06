@@ -12,8 +12,8 @@ This repository contains the MATLAB code that accompanies the semester project:
 
 - The CCM class is a generalized version of the [code](https://gitlab.ethz.ch/ics/RAMPC-CCM.git) accompaning the paper
   > Sasfi, András and Zeilinger, Melanie N. and Köhler, Johannes, "[Robust adaptive MPC using control contraction metrics](http://dx.doi.org/10.1016/j.automatica.2023.111169)"
-  > Automatica, p. 111169, 2023
-- The SLS class is a adapted version of the [code](https://gitlab.ethz.ch/ics/nonlinear-parametric-SLS.git) accompaning the paper
+  > Automatica, p. 111169, 2023.
+- The SLS class is an adapted version of the [code](https://gitlab.ethz.ch/ics/nonlinear-parametric-SLS.git) accompaning the paper
   > Leeman, Antoine P. and Sieber, Jerome and Bennani, Samir and Zeilinger, Melanie N. “[Robust optimal control for nonlinear systems with parametric uncertainties via system level synthesis](https://arxiv.org/abs/2304.00752)”
   > In Proc. 62th IEEE Conference on Decision and Control (CDC), pp. 4784-4791, 2023.
 
